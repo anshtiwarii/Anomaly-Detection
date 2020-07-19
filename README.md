@@ -8,3 +8,5 @@
    a)Outlier Detection <br>
    b)Novelty Detection <br>
 4. Connectivity-based Outlier Factor(COF) <br> 
+
+## Presentation used during my mid-session review of my data science and machine learning internship
