@@ -8,3 +8,5 @@
    a)Outlier Detection <br>
    b)Novelty Detection <br>
 4. Connectivity-based Outlier Factor(COF) <br> 
+
+### Conclusion : In the above observation we can conclude that hbos is the fastest and knn gives best accuracy.
