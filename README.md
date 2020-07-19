@@ -4,7 +4,7 @@
 **Machine learning models used** : <br>
 1)K-nearest neighbors (KNN) <br>
 2)Histogram-based outlier (HBOS) <br>
-3) *Local outlier factor(LOF) <br>
+3)Local outlier factor(LOF) <br>
    a)*Outlier Detection <br>
    b)*Novelty Detection <br>
 4)Connectivity-based Outlier Factor(COF) <br>
